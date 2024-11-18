@@ -6,6 +6,8 @@ Lecture | Notes |
 | Lecture 2 28.10.24 | [Lecture 2 Notes] |
 | Exercise 2 30.10.24 | [Exercise 2 Notes] |
 | Lecture 3 04.11.24 | [Lecture 3 Notes] |
+| Lecture 4 | [Lecture 4 colab] |
+| Lecture 5 | [Lecture 5 colab] |
 
 ## Seminars 
 Seminar | Video | Materials | 
@@ -20,3 +22,5 @@ Seminar | Video | Materials |
 [Lecture 2 Notes]: https://drive.google.com/file/d/1H1SrB0Za8cqyUGnc-VQ5PcNqodT4xkoF/view?usp=sharing
 [Exercise 2 Notes]: https://drive.google.com/file/d/1w2UNnP0vJvqfXkZo4prESc69kCCo_Lic/view?usp=sharing
 [Lecture 3 Notes]: https://colab.research.google.com/drive/1wpffZTpKV4yfVRajEuIaxHYlaD-9Dcn2#scrollTo=nG4b2__chiTV
+[Lecture 4 colab]: https://colab.research.google.com/drive/1OYsLgWEFOZ17njtX6ILxS4fxFtOmDJhQ?usp=sharing
+[Lecture 5 colab]: https://colab.research.google.com/drive/1fXDv5N--J8uwomXJRcaSr2KUk95lIrbr?usp=sharing
