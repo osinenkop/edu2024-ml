@@ -17,6 +17,11 @@ Seminar | Video | Materials |
 | Seminar 3. Derivatives and NumPy basics | N/A | [seminar 3 colab] |
 | Seminar 4. Basics of Gradient Descent and Linear Classification | N/A | [seminar 4 colab] |
 
+## Student Solutions 
+Student | Solution |
+| ----- | ------ |
+| Daniel Hergert | [multilabel_class_basics.ipynb](https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/multilabel_class_basics.ipynb) |
+
 [seminar 1 colab]: https://colab.research.google.com/drive/1uWDBCxhqb_C03k5CpgQ_JB9tov3UCmmu
 [seminar 2 colab]: https://colab.research.google.com/drive/1lQecP0HAwYWORQz9aj008YTs0B8WtDgs?usp=sharing
 [seminar 3 colab]: https://colab.research.google.com/drive/11pQ-tfj6YNZdB41vxkbyD0UrIQAS24SW?usp=sharing
