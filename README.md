@@ -4,7 +4,7 @@
 Lecture | Notes |
 | ----- |  ----- |
 | Lecture 2 (Differentiation) 28.10.24 | [Lecture 2 notes] |
-| Lecture 3 (NumPy) 04.11.24 | [Lecture 3 colab] |
+| Lecture 3 (NumPy Basics) 04.11.24 | [Lecture 3 colab] |
 | Lecture 4 (Linear Classification) 11.11.24 | [Lecture 4 colab] |
 | Lecture 5 (Multiclass Classification) 18.11.24 & SGD colab | [Lecture 5 colab], [SGD] |
 | Lecture 6 (Intro to PyTorch) 25.11.24 | [Lecture 6 colab] |
@@ -16,7 +16,7 @@ Colab | Video | Materials |
 | Pre-course knowledge | N/A | [colab 1] |
 | Lab 2 Notes 30.10.24 | N/A | [Lab 2 Notes] |
 | Derivatives and NumPy basics 04.11.24 & 11.11.24 | N/A | [colab 2] |
-| Notation & primitives | N/A | [colab 3] |
+| Notation & Math Primitives | N/A | [colab 3] |
 | Basics of Gradient Descent and Linear Classification | N/A | [colab 4] |
 
 ## Student Solutions 
