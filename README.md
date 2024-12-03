@@ -20,9 +20,9 @@ Colab | Video | Materials |
 | Basics of Gradient Descent and Linear Classification | N/A | [colab 4] |
 
 ## Student Solutions 
-Student | Solution |
+Topic | Student Solution |
 | ----- | ------ |
-| Daniel Hergert | [multilabel_class_basics.ipynb](https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/multilabel_class_basics.ipynb) |
+|  |  |
 
 [colab 1]: https://colab.research.google.com/drive/1uWDBCxhqb_C03k5CpgQ_JB9tov3UCmmu
 [Lecture 2 notes]: https://drive.google.com/file/d/1H1SrB0Za8cqyUGnc-VQ5PcNqodT4xkoF/view?usp=sharing
