@@ -22,7 +22,8 @@ Colab | Video | Materials |
 ## Student Solutions 
 Topic | Student Solution |
 | ----- | ------ |
-|  |  |
+| Pre-Course Knowledge | [Ehtesham Faraz], [Shyam Sanish] |
+| Multiclass Classification | [Daniel Hergert] |
 
 [colab 1]: https://colab.research.google.com/drive/1uWDBCxhqb_C03k5CpgQ_JB9tov3UCmmu
 [Lecture 2 notes]: https://drive.google.com/file/d/1H1SrB0Za8cqyUGnc-VQ5PcNqodT4xkoF/view?usp=sharing
@@ -36,3 +37,7 @@ Topic | Student Solution |
 [Lecture 7 colab]: https://colab.research.google.com/drive/1LfyYdKX9rlSAxmZIzH0Z_jZf_-VzwrpH
 [colab 3]: https://colab.research.google.com/drive/1lQecP0HAwYWORQz9aj008YTs0B8WtDgs?usp=sharing
 [colab 4]: https://colab.research.google.com/drive/17JDbyiZuPvmRQn6Edz0BH0NxYAMrVTM0?usp=sharing
+[Daniel Hergert]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Multiclass_Classification/Daniel_Hergert.ipynb
+[Ehtesham Faraz]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Pre-Course%20Knowledge/Ehtesham_Faraz.ipynb
+[Shyam Sanish]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Pre-Course%20Knowledge/Shyam_Sanish.ipynb
+
