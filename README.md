@@ -9,6 +9,7 @@ Lecture | Notes |
 | Lecture 5 (Multiclass Classification) 18.11.24 & SGD colab | [Lecture 5 colab], [SGD] |
 | Lecture 6 (Intro to PyTorch) 25.11.24 | [Lecture 6 colab] |
 | Lecture 7 (Basics of CNNs) 02.12.24 | [Lecture 7 colab] |
+| Lecture 8 (Basics of Generative Adversarial Networks) 09.12.24 | [Lecture 8 colab] |
 
 ## Labs
 Colab | Video | Materials | 
@@ -37,6 +38,7 @@ Topic | Student Solution |
 [Lecture 7 colab]: https://colab.research.google.com/drive/1LfyYdKX9rlSAxmZIzH0Z_jZf_-VzwrpH
 [colab 3]: https://colab.research.google.com/drive/1lQecP0HAwYWORQz9aj008YTs0B8WtDgs?usp=sharing
 [colab 4]: https://colab.research.google.com/drive/17JDbyiZuPvmRQn6Edz0BH0NxYAMrVTM0?usp=sharing
+[Lecture 8 colab]: https://colab.research.google.com/drive/1Tg6LQMbIbGK-hTTHhNfPD_sYkTJ_podk
 [Daniel Hergert]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Multiclass_Classification/Daniel_Hergert.ipynb
 [Ehtesham Faraz]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Pre-Course%20Knowledge/Ehtesham_Faraz.ipynb
 [Shyam Sanish]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Pre-Course%20Knowledge/Shyam_Sanish.ipynb
