@@ -19,6 +19,8 @@ Colab | Video | Materials |
 | Derivatives and NumPy basics 04.11.24 & 11.11.24 | N/A | [colab 2] |
 | Notation & Math Primitives | N/A | [colab 3] |
 | Basics of Gradient Descent and Linear Classification | N/A | [colab 4] |
+| Demonstration of DL tweaks on GANs | N/A | [colab 5] |
+| Tiny transformer example | N/A | [colab 6] |
 
 ## Student Solutions 
 Topic | Student Solution |
@@ -38,6 +40,8 @@ Topic | Student Solution |
 [Lecture 7 colab]: https://colab.research.google.com/drive/1LfyYdKX9rlSAxmZIzH0Z_jZf_-VzwrpH
 [colab 3]: https://colab.research.google.com/drive/1lQecP0HAwYWORQz9aj008YTs0B8WtDgs?usp=sharing
 [colab 4]: https://colab.research.google.com/drive/17JDbyiZuPvmRQn6Edz0BH0NxYAMrVTM0?usp=sharing
+[colab 5]: https://colab.research.google.com/drive/1QzbnoRRJsNLlVhm4FufPe1TavaDy8rwN?usp=sharing
+[colab 6]: https://colab.research.google.com/drive/16P6Tgt3LaI62JtodPzMM8nxA9N3rSSmC?usp=sharing
 [Lecture 8 colab]: https://colab.research.google.com/drive/1Tg6LQMbIbGK-hTTHhNfPD_sYkTJ_podk
 [Daniel Hergert]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Multiclass_Classification/Daniel_Hergert.ipynb
 [Ehtesham Faraz]: https://github.com/osinenkop/edu2024-ml/blob/main/exercises/student-solutions/Pre-Course%20Knowledge/Ehtesham_Faraz.ipynb
